@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>Images/1_New_icon.png</file>
+        <file>Images/2_Open_icon.png</file>
+        <file>Images/3_save_icon.png</file>
+        <file>Images/4_saveas_icon.png</file>
+        <file>Images/5_Redo_icon.png</file>
+        <file>Images/7_copy_icon.png</file>
+        <file>Images/8_Cut_icon.png</file>
+        <file>Images/9_Paste_icon.png</file>
+        <file>Images/10_PDF_icon.png</file>
+        <file>Images/6_Undo_icon.png</file>
+        <file>Images/11_Home_icon.png</file>
+        <file>Images/12_Apps_pidgin_icon.png</file>
+        <file>Images/16_Text_icon.png</file>
+        <file>Images/18_PDF_Documents_icon.png</file>
+        <file>Images/20_folders_open_icon.png</file>
+        <file>Images/21_pdf_icon.png</file>
+        <file>Images/23_Home_icon.png</file>
+        <file>Images/25_edit_clear_icon.png</file>
+        <file>Images/26_gradient_image.jpg</file>
+        <file>Images/27_ok_button.png</file>
+        <file>Images/28_gradient_background.jpg</file>
+        <file>Images/24_gradient_image.jpg</file>
+        <file>Images/19_Delete_icon.png</file>
+    </qresource>
+</RCC>
